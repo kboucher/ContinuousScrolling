@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Continuous Scrolling</title>
+	<meta name="description" content="Continuous scrolling sandbox">
+	<meta name="author" content="KevinBoucher.com">
+
+	<meta name="viewport" content="width=device-width">
+
+	<link rel="stylesheet" href="ui/css/style.css">
+
+	<script src="ui/js/libs/modernizr-2.5.3.min.js"></script>
+
+</head>
+<body>
+    <div id="container">
+        <header id="header">
+            <h1>Continuous Scrolling</h1>
+        </header>
+        <article id="main" role="main">
+            <div id="search" role="search">
+                <form id="search-form" class="clearfix" data-bind="submit: getResults">
+                    <input type="text" id="search-text" placeholder="Search Texas.gov" />
+                    <input type="submit" value="Go!" />
+                </form>
+            </div>
+            <div id="results">
+                <ul data-bind="foreach: results, visible: results().length > 0">
+                    <li>
+                        <a data-bind="attr: { href: link }, html: htmlTitle" class="title"></a>
+                        <p data-bind="html: htmlSnippet"></p>
+                        <a data-bind="attr: { href: link }, text: link" class="url"></a>
+                    </li>
+                </ul>
+            </div>
+        </article>
+    </div>
+
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript">if ( typeof jQuery == 'undefined' ) { document.write( unescape( "%3Cscript src='ui/js/libs/jquery-1.7.2.min.js' type='text/javascript'%3E%3C/script%3E" ) ); }</script>
+
+    <script src="ui/js/libs/knockout-2.1.0.debug.js"></script>
+    <script src="ui/js/script.js"></script>
+</body>
+</html>

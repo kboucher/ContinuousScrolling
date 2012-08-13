@@ -1,0 +1,272 @@
+﻿{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "nextPage": [
+            {
+                "title": "Google Custom Search - agency",
+                "totalResults": "47500",
+                "searchTerms": "agency",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "006493117700830456212:j4nnmjuqlmk"
+            }
+        ],
+        "request": [
+            {
+                "title": "Google Custom Search - agency",
+                "totalResults": "47500",
+                "searchTerms": "agency",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "006493117700830456212:j4nnmjuqlmk"
+            }
+        ]
+    },
+    "context": {
+        "title": "Texas.gov Search Engine"
+    },
+    "searchInformation": {
+        "searchTime": 0.15013,
+        "formattedSearchTime": "0.15",
+        "totalResults": "47500",
+        "formattedTotalResults": "47,500"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Agency Finder",
+            "htmlTitle": "<b>Agency</b> Finder",
+            "link": "http://www.texas.gov/en/Discover/Pages/agency-finder.aspx",
+            "displayLink": "www.texas.gov",
+            "snippet": "183 results ... Agency Finder. Quickly find the Texas government agency that ...",
+            "htmlSnippet": "183 results <b>...</b> <b>Agency</b> Finder. Quickly find the Texas government <b>agency</b> that <b>...</b>",
+            "cacheId": "prsepvoxWUwJ",
+            "formattedUrl": "www.texas.gov/en/Discover/Pages/agency-finder.aspx",
+            "htmlFormattedUrl": "www.texas.gov/en/Discover/Pages/<b>agency</b>-finder.aspx",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "progid": "SharePoint.WebPartPage.Document"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Agency Finder",
+            "htmlTitle": "<b>Agency</b> Finder",
+            "link": "http://www.texas.gov/en/Discover/Pages/agency-finder.aspx?CommandArgument=Judicial",
+            "displayLink": "www.texas.gov",
+            "snippet": "24 results ... Agency Finder. Quickly find the Texas government agency that you're looking for.   ... Directory: View agency phone directory · Appeals, Court of -- 02nd ...",
+            "htmlSnippet": "24 results <b>...</b> <b>Agency</b> Finder. Quickly find the Texas government <b>agency</b> that you&#39;re looking for. <br>  <b>...</b> Directory: View <b>agency</b> phone directory &middot; Appeals, Court of -- 02nd <b>...</b>",
+            "cacheId": "50kfQkUY6UwJ",
+            "formattedUrl": "www.texas.gov/en/Discover/Pages/agency-finder.aspx?...Judicial",
+            "htmlFormattedUrl": "www.texas.gov/en/Discover/Pages/<b>agency</b>-finder.aspx?...Judicial",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "progid": "SharePoint.WebPartPage.Document"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Agency Finder",
+            "htmlTitle": "<b>Agency</b> Finder",
+            "link": "http://www.texas.gov/en/Discover/Pages/agency-finder.aspx?CommandArgument=Legislative",
+            "displayLink": "www.texas.gov",
+            "snippet": "7 results ... Agency Finder. Quickly find the Texas government agency that you're looking for.   ... Directory: View agency phone directory · House of Representatives ...",
+            "htmlSnippet": "7 results <b>...</b> <b>Agency</b> Finder. Quickly find the Texas government <b>agency</b> that you&#39;re looking for. <br>  <b>...</b> Directory: View <b>agency</b> phone directory &middot; House of Representatives <b>...</b>",
+            "cacheId": "1uezAFT6OYMJ",
+            "formattedUrl": "www.texas.gov/en/Discover/Pages/agency-finder.aspx?...",
+            "htmlFormattedUrl": "www.texas.gov/en/Discover/Pages/<b>agency</b>-finder.aspx?...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "progid": "SharePoint.WebPartPage.Document"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "State & Local Government",
+            "htmlTitle": "State &amp; Local Government",
+            "link": "http://www.texas.gov/en/discover/Pages/topic.aspx?topicid=/government",
+            "displayLink": "www.texas.gov",
+            "snippet": "A: The Texas Records and Information Locator Service (TRAILS) website lists   every Texas state agency and provides links to information about each agency.",
+            "htmlSnippet": "A: The Texas Records and Information Locator Service (TRAILS) website lists <br>  every Texas state <b>agency</b> and provides links to information about each <b>agency</b>.",
+            "cacheId": "GviwJXtC7jQJ",
+            "formattedUrl": "www.texas.gov/en/discover/Pages/topic.aspx?topicid=/government",
+            "htmlFormattedUrl": "www.texas.gov/en/discover/Pages/topic.aspx?topicid=/government",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "progid": "SharePoint.WebPartPage.Document"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Live Chat",
+            "htmlTitle": "Live Chat",
+            "link": "http://www.texas.gov/en/Ask/Pages/live-chat.aspx",
+            "displayLink": "www.texas.gov",
+            "snippet": "Please note: We are not a government agency and Live Chat is not staffed by ... If   you have agency-specific requests, such as the status of a license or questions ...",
+            "htmlSnippet": "Please note: We are not a government <b>agency</b> and Live Chat is not staffed by <b>...</b> If <br>  you have <b>agency</b>-specific requests, such as the status of a license or questions <b>...</b>",
+            "cacheId": "U4NkRodulTcJ",
+            "formattedUrl": "www.texas.gov/en/Ask/Pages/live-chat.aspx",
+            "htmlFormattedUrl": "www.texas.gov/en/Ask/Pages/live-chat.aspx",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.texas.gov/SiteCollectionImages/ask-survey-en.png"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "220",
+                        "height": "73",
+                        "src": "https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcRPGK7ptktuFel_axOxnRrt29Q0t6tuPwgwMjNIOpOCq9NSzk9uQPY46g"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "progid": "SharePoint.WebPartPage.Document"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Texas.gov | The Official Website of the State of Texas",
+            "htmlTitle": "Texas.gov | The Official Website of the State of Texas",
+            "link": "http://www.texas.gov/",
+            "displayLink": "www.texas.gov",
+            "snippet": "Connect More · Ask. Sometimes it's easier to ask. Go ahead, we're here to help.   FAQs · Live Chat · Find an Agency · Contact Information · Community Questions ...",
+            "htmlSnippet": "Connect More &middot; Ask. Sometimes it&#39;s easier to ask. Go ahead, we&#39;re here to help. <br>  FAQs &middot; Live Chat &middot; Find an <b>Agency</b> &middot; Contact Information &middot; Community Questions <b>...</b>",
+            "cacheId": "Uc2u6asdPhsJ",
+            "formattedUrl": "www.texas.gov/",
+            "htmlFormattedUrl": "www.texas.gov/",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://farm4.static.flickr.com/3381/4563498613_7387fffa2c.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "259",
+                        "height": "194",
+                        "src": "https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcTXdV5an9Zx65iu0b3aIfjL-G92FEEwomMGcBt9ueLBf_b5oaX4hWhn5iA"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "progid": "SharePoint.WebPartPage.Document"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Government Spotlight",
+            "htmlTitle": "Government Spotlight",
+            "link": "http://www.texas.gov/en/Discover/Pages/gov-spotlight.aspx",
+            "displayLink": "www.texas.gov",
+            "snippet": "This streamlined process will save agencies time, paper, and postage costs. ...   The agency receives and investigates complaints against veterinarians and ...",
+            "htmlSnippet": "This streamlined process will save <b>agencies</b> time, paper, and postage costs. <b>...</b> <br>  The <b>agency</b> receives and investigates complaints against veterinarians and <b>...</b>",
+            "cacheId": "s1k6mO4xK50J",
+            "formattedUrl": "www.texas.gov/en/Discover/Pages/gov-spotlight.aspx",
+            "htmlFormattedUrl": "www.texas.gov/en/Discover/Pages/gov-spotlight.aspx",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.texas.gov/en/Documents/OAG_logo.png"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "75",
+                        "height": "92",
+                        "src": "https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcR-kXOwu_mJtdJRh0j1DcNlFQprAl_0tbqqdw6HHI6rE7rcBqloYVzk"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "progid": "SharePoint.WebPartPage.Document"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "K-12",
+            "htmlTitle": "K-12",
+            "link": "http://www.texas.gov/en/discover/Pages/topic.aspx?topicid=%2Feducation%2Fk12",
+            "displayLink": "www.texas.gov",
+            "snippet": "Download Academic Excellence Indicator System reports from the Texas   Education Agency. Public Education Information Resources (TPEIR). Find   information ...",
+            "htmlSnippet": "Download Academic Excellence Indicator System reports from the Texas <br>  Education <b>Agency</b>. Public Education Information Resources (TPEIR). Find <br>  information <b>...</b>",
+            "cacheId": "O3hqkDKQl14J",
+            "formattedUrl": "www.texas.gov/en/discover/Pages/topic.aspx?topicid...",
+            "htmlFormattedUrl": "www.texas.gov/en/discover/Pages/topic.aspx?topicid...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "progid": "SharePoint.WebPartPage.Document"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Privacy & Security Policy",
+            "htmlTitle": "Privacy &amp; Security Policy",
+            "link": "http://www.texas.gov/en/about/Pages/privacy-policy.aspx",
+            "displayLink": "www.texas.gov",
+            "snippet": "This policy does not apply whenever visitors leave Texas.gov domains by   clicking a link to an external site, including the sites of state agencies and local ...",
+            "htmlSnippet": "This policy does not apply whenever visitors leave Texas.gov domains by <br>  clicking a link to an external site, including the sites of state <b>agencies</b> and local <b>...</b>",
+            "cacheId": "_eR3uDw2AUgJ",
+            "formattedUrl": "www.texas.gov/en/about/Pages/privacy-policy.aspx",
+            "htmlFormattedUrl": "www.texas.gov/en/about/Pages/privacy-policy.aspx",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "progid": "SharePoint.WebPartPage.Document"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Education",
+            "htmlTitle": "Education",
+            "link": "http://www.texas.gov/en/discover/Pages/topic.aspx?topicid=%2Feducation",
+            "displayLink": "www.texas.gov",
+            "snippet": "Request a Preliminary Criminal History Evaluation online from the Texas   Education Agency. Public & Private College Listings. View a list of public and   private ...",
+            "htmlSnippet": "Request a Preliminary Criminal History Evaluation online from the Texas <br>  Education <b>Agency</b>. Public &amp; Private College Listings. View a list of public and <br>  private <b>...</b>",
+            "cacheId": "LDNlg6fKrYcJ",
+            "formattedUrl": "www.texas.gov/en/discover/Pages/topic.aspx?topicid...",
+            "htmlFormattedUrl": "www.texas.gov/en/discover/Pages/topic.aspx?topicid...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "progid": "SharePoint.WebPartPage.Document"
+                    }
+                ]
+            }
+        }
+    ]
+}
